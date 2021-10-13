@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
         borderColor: '#000000',
         backgroundColor: '#1A237E',
         color: '#FF0000'
-    }, toucableHand: {
+    }, touch: {
         margin: 50
     }
 })
